@@ -1,0 +1,19 @@
+{
+  "mydata": [
+    {
+      "id": "a0ac",
+      "title": "node course",
+      "price": 100
+    },
+    {
+      "id": "a814",
+      "title": "react course",
+      "price": 90
+    },
+    {
+      "id": "80e5",
+      "title": "javascript course",
+      "price": 80
+    }
+  ]
+}
